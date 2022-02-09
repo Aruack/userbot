@@ -1,5 +1,5 @@
 {
-  "name": "Arauck Userbot",
+  "name": "Aruack Userbot",
   "description": "Extended Version of Uniborg By @aruack",
   "logo": "https://telegra.ph/file/71e1c80c374fc803a2028.jpg",
   "keywords": [
@@ -29,6 +29,7 @@
     "ANIMATED_STICKER_PNAME": {
       "description": "Enter Name For Your Animated Sticker Pack ! Required for Stickers Kang Plugin",
       "value": ""
+      "required": false
     },
     "STICKER_PACK_NAME": {
       "description": "Enter Name For Your Sticker Pack ! Required for Stickers Kang Plugin",
