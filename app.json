@@ -28,7 +28,7 @@
     },
     "ANIMATED_STICKER_PNAME": {
       "description": "Enter Name For Your Animated Sticker Pack ! Required for Stickers Kang Plugin",
-      "value": ""
+      "value": "",
       "required": false
     },
     "STICKER_PACK_NAME": {
