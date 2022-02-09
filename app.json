@@ -1,7 +1,7 @@
 {
-  "name": "TechnoAyanBoT",
+  "name": "Arauck Userbot",
   "description": "Extended Version of Uniborg By @TechnoAyanOfficial",
-  "logo": "https://telegra.ph/file/c40c645eb602e192ec442.jpg",
+  "logo": "https://telegra.ph/file/71e1c80c374fc803a2028.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/TechnoAyanOfficial/TechnoAyanBoT",
+  "repository": "https://github.com/Aruack/userbot",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -29,6 +29,7 @@
     "ANIMATED_STICKER_PNAME": {
       "description": "Enter Name For Your Animated Sticker Pack ! Required for Stickers Kang Plugin",
       "value": ""
+      "required": false
     },
     "STICKER_PACK_NAME": {
       "description": "Enter Name For Your Sticker Pack ! Required for Stickers Kang Plugin",
