@@ -6,7 +6,7 @@
 <h2 align="center">Updates and Support</h2>
 
 
-<p align="center">Also join our <a href="https://heroku.com/deploy?template=https://github.com/Aruack/userbot">DEPLOY</a>ON HEROKU /p>
+<p align="center">Also join our <a href="https://heroku.com/deploy?template=https://github.com/Aruack/userbot">DEPLOY</a>ON HEROKU 
 
 
 <h2 align="center">Updates and Support</h2>
